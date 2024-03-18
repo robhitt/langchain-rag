@@ -12,7 +12,6 @@ import time
 from langchain.embeddings.openai import OpenAIEmbeddings
 from tqdm.auto import tqdm  # for progress bar
 from langchain.vectorstores import Pinecone
-import os
 from PyPDF2 import PdfReader
 import re
 

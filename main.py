@@ -29,7 +29,7 @@ messages = []
 # messages = [
 #     SystemMessage(content="You are a helpful assistant."),
 #     HumanMessage(content="Hi AI, how are you today?"),
-#     AIMessage(content="I'm great thank you. How can I help you?"),
+#     AIMessage(content="I'm great, thank you. How can I help you?"),
 #     HumanMessage(content="I'd like to understand string theory.")
 # ]
 #
